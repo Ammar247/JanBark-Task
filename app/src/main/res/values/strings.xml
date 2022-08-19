@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Janbark task</string>
+    <string name="banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="downloading_model_files">Downloading Model Files</string>
+    <string name="unpacking_model_files">Unpacking Model Files</string>
+    <string name="almost_done">Almost Done</string>
+    <string name="thanks_msg">Thank for waiting</string>
+    <string name="please_wait">Downloading model. Please wait...</string>
+    <string name="elephant">Elephant</string>
+    <string name="cat">Cat</string>
+    <string name="dog">Dog</string>
+    <string name="aeroplane">Aeroplane</string>
+    <string name="fan">Fan</string>
+    <string name="human">Human</string>
+    <string name="fish">Fish</string>
+    <string name="ant">Ant</string>
+    <string name="snake">Snake</string>
+    <string name="lion">Lion</string>
+    <string name="no_internet">No internet</string>
+</resources>

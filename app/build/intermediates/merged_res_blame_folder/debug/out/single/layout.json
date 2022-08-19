@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\OnGoingProjects\\temp-project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "F:\\OnGoingProjects\\temp-project\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\OnGoingProjects\\temp-project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_word.xml",
+        "source": "F:\\OnGoingProjects\\temp-project\\app\\src\\main\\res\\layout\\list_word.xml"
+    },
+    {
+        "merged": "F:\\OnGoingProjects\\temp-project\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_word_list.xml",
+        "source": "F:\\OnGoingProjects\\temp-project\\app\\src\\main\\res\\layout\\activity_word_list.xml"
+    }
+]
